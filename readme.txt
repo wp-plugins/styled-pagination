@@ -21,9 +21,9 @@ Features include:
 
 Style the display using the following tags:
 
-#rb-page-prev - Styles the previous link
-#rb-page-next - Styles the next link
-#rb-page-pages - Style the Text and Page Numbers
+ * #rb-page-prev - Styles the previous link
+ * #rb-page-next - Styles the next link
+ * #rb-page-pages - Style the Text and Page Numbers
 
 NOTE: Currently the previous and next links must be in the form of images.
 
