@@ -31,7 +31,7 @@ NOTE: Currently the previous and next links must be in the form of images.
 
 1. Upload the 'styled-pagination' folder to the '/wp-content/plugins/' directory
 2. Activate the Styled Pagination plugin through the 'Plugins' menu in WordPress
-3. Add one of the following to your php file. Display text only (i.e. PAGE 2 of 10) <?php echo rb_pages(); ?> -OR- Display text with navigation arrows <?php echo rb_pagination(); ?>
+3. Add one of the following to your php file. Display text only (i.e. PAGE 2 of 10) `<?php echo rb_pages(); ?>` -OR- Display text with navigation arrows `<?php echo rb_pagination(); ?>`
 
 
 == Frequently Asked Questions ==
