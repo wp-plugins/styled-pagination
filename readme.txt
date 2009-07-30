@@ -19,6 +19,11 @@ Features include:
 3. Customize the display text of the Pages
 4. Choose between just displaying Current Page and Total Pages, or having pagination
 
+How to use
+
+ * `<?php echo rb_pages(); ?>  //Displays text only (i.e. PAGE 2 OF 11)`
+ * '<?php echo rb_pagination(); ?>  //Displays text and navigation arrows`
+
 Style the display using the following tags:
 
  * #rb-page-prev - Styles the previous link
@@ -31,7 +36,7 @@ NOTE: Currently the previous and next links must be in the form of images.
 
 1. Upload the 'styled-pagination' folder to the '/wp-content/plugins/' directory
 2. Activate the Styled Pagination plugin through the 'Plugins' menu in WordPress
-3. Add one of the following to your php file. Display text only (i.e. PAGE 2 of 10) `<?php echo rb_pages(); ?>` -OR- Display text with navigation arrows `<?php echo rb_pagination(); ?>`
+3. Add the proper tag to your wordpress template See description for tags.
 
 
 == Frequently Asked Questions ==
