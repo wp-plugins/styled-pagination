@@ -22,7 +22,7 @@ Features include:
 How to use
 
  * `<?php echo rb_pages(); ?>  //Displays text only (i.e. PAGE 2 OF 11)`
- * '<?php echo rb_pagination(); ?>  //Displays text and navigation arrows`
+ * `<?php echo rb_pagination(); ?>  //Displays text and navigation arrows`
 
 Style the display using the following tags:
 
